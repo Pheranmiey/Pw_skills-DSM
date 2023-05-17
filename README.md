@@ -1,1 +1,1 @@
-# Pw_skills-DSM
+Data science master 2.0 assignments
